@@ -36,8 +36,6 @@
 
 ## 🚀 About Me
 
-<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="right">
-
 - 🎓 **4th Year BSCS Student** at The University of Lahore (CGPA: 3.86/4.0)
 - 💻 **Django Python Developer** with expertise in full-stack web development
 - ⚡ **Next.js & React Developer** building modern, responsive web applications
@@ -152,6 +150,8 @@
 
 ## 🌱 Currently Learning & Focus Areas
 
+<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="right">
+
 - **MERN Stack Development**: Building full-stack applications with MongoDB, Express.js, React.js, and Node.js
 - **Advanced Django**: Microservices architecture, Django Channels, and scalable backend systems
 - **Next.js & React**: Server-side rendering, static site generation, and modern React patterns
@@ -221,7 +221,7 @@
 I'm always interested in discussing technology, collaborating on projects, or exploring new opportunities. Feel free to reach out!
 
 <p align="center">
-  <a href="https://github.com/HashirAbdulah?tab=repositories" target="_blank">
+  <a href="https://github.com/MHashirAbdullah?tab=repositories" target="_blank">
     <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
   </a>
   <a href="mailto:hashirabdullah46@gmail.com">
