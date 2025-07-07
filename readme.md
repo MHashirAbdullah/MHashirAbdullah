@@ -1,12 +1,12 @@
 # Hi there, I'm Muhammad Hashir Abdullah! 👋
 
-<a href="https://komarev.com/ghpvc/?username=HashirAbdulah">
-  <img align="right" src="https://komarev.com/ghpvc/?username=HashirAbdulah&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=MHashirAbdullah">
+  <img align="right" src="https://komarev.com/ghpvc/?username=MHashirAbdullah&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 <h3 align="center">
   <samp>&gt; Hey There!, I am
-    <b><a target="_blank" href="https://HashirAbdulah.com">Muhammad Hashir Abdullah</a></b>
+    <b><a target="_blank" href="https://MHashirAbdullah.com">Muhammad Hashir Abdullah</a></b>
   </samp>
 </h3>
 
@@ -25,10 +25,10 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/muhammad-hashir-abdullah-2b7271240" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="HashirAbdulah"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MHashirAbdullah"/>
  </a>
  <a href="https://www.instagram.com/mhashirabdullah/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="HashirAbdulah" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="MHashirAbdullah" />
  </a> 
 </p>
 
@@ -46,7 +46,7 @@
 - 📱 **Phone**: +92-321-1197160
 - 💬 **Ask me about**: Django, Python, Next.js, React, Web Development, Database Systems
 - 🤝 **Open to**: Collaboration, Internships, and Full-time Opportunities
-- 📋 **Questions?**: [Create an issue](https://github.com/HashirAbdulah/HashirAbdulah/issues)
+- 📋 **Questions?**: [Create an issue](https://github.com/MHashirAbdullah/MHashirAbdullah/issues)
 
 ---
 
@@ -180,17 +180,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/HashirAbdulah">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HashirAbdulah&theme=radical" alt="HashirAbdullah's GitHub Contribution" width="100%"/>
+  <a href="https://github.com/MHashirAbdullah">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHashirAbdullah&theme=radical" alt="MHashirAbdullah's GitHub Contribution" width="100%"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/HashirAbdulah">
-    <img alt="HashirAbdullah's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=HashirAbdulah&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  <a href="https://github.com/MHashirAbdullah">
+    <img alt="HashirAbdullah's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MHashirAbdullah&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
-  <a href="https://github.com/HashirAbdulah">
-    <img alt="HashirAbdullah's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HashirAbdulah&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  <a href="https://github.com/MHashirAbdullah">
+    <img alt="HashirAbdullah's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MHashirAbdullah&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
 </div>
 
@@ -236,5 +236,5 @@ I'm always interested in discussing technology, collaborating on projects, or ex
 </p>
 
 <p align="center">
-  <i>From <a href="https://github.com/HashirAbdulah">Muhammad Hashir Abdullah</a> with ❤️</i>
+  <i>From <a href="https://github.com/MHashirAbdullah">Muhammad Hashir Abdullah</a> with ❤️</i>
 </p>
