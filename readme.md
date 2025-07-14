@@ -405,8 +405,9 @@ class MuhammadHashir:
 > **How many programmers does it take to change a light bulb?**  
 > None, that's a hardware problem! 💡
 
-### 🎵 Currently Vibing To
-🎧 Lo-fi Hip Hop • Coding Beats • Electronic Chill
+### 🎵 Currently Vibing To  
+🎧 Shafaullah Rokhri • Saraiki Folk • Heartfelt Classics
+
 
 </div>
 
