@@ -83,8 +83,7 @@ me.say_hi()
 🌱 **Continuous Learner** • MERN Stack Explorer  
 ⚡ **Tech Specialist** • Django & Next.js Expert  
 🚀 **Project Builder** • 3+ Major Projects  
-📧 **Email** • hashirabdullah46@gmail.com  
-📱 **Phone** • +92-321-1197160  
+📧 **Email** • hashirabdullah46@gmail.com
 🌐 **Portfolio** • [Visit Here](https://portfolio-ten-phi-3kx7pkqd7d.vercel.app/)
 
 <br/>
@@ -201,21 +200,16 @@ me.say_hi()
 ### 🎯 Technology Proficiency
 
 ```text
-Backend Development  ████████████████████░░░░░   85%
-Frontend Development ████████████████████░░░░░   60%
-Database Management  ███████████████████░░░░░░   78%
+Backend Development  ████████████████████░░   85%
+Frontend Development ████████████████░░░░░   60%
+Database Management  █████████████████░░░░░░   78%
 API Design & REST    ████████████████████░░░░░   85%
-Version Control      ████████████████████████░   80%
-Problem Solving      ████████████████████░░░░░   88%
+Version Control      ███████████████████░   80%
+Problem Solving      ████████████████████░░░   88%
 ```
 
 </div>
 
----
-
-Here’s the updated section with the project **CarePulse** added and the **DARA** project status changed to "Completed":
-
----
 
 ### 🚀 Featured Projects - Building The Future
 
@@ -308,7 +302,7 @@ Here’s the updated section with the project **CarePulse** added and the **DARA
 
 <img src="https://img.shields.io/badge/Status-🚧%20In%20Progress-yellow?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Stack-MERN%20Stack-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Timeline-Oct%202025%20--%20Present-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Timeline-Jun%202025%20--%20Present-green?style=for-the-badge" />
 
 **🎯 Mission:** Simplifying the healthcare experience with online appointments and payment solutions.
 
