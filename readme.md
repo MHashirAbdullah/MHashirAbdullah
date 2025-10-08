@@ -562,12 +562,6 @@ Here’s the updated section with the project **CarePulse** added and the **DARA
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHashirAbdullah&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Language%20Distribution" width="100%" />
 
 </td>
-<td width="50%">
-
-### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MHashirAbdullah&theme=tokyonight&hide_border=true" width="100%" />
-
-</td>
 </tr>
 </table>
 
