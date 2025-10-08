@@ -81,7 +81,7 @@ me.say_hi()
 💼 **Professional Experience** • 2x Dev Intern  
 🏆 **Certified Professional** • 4 Certifications  
 🌱 **Continuous Learner** • MERN Stack Explorer  
-⚡ **Tech Specialist** • Django & Next.js Expert  
+⚡ **Tech Specialist** • Django, Vite.js, React Developer  
 🚀 **Project Builder** • 3+ Major Projects  
 📧 **Email** • hashirabdullah46@gmail.com
 🌐 **Portfolio** • [Visit Here](https://portfolio-ten-phi-3kx7pkqd7d.vercel.app/)
