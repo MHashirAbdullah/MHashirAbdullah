@@ -645,44 +645,43 @@ Let's shape the future of technology together! 🚀
 ---
 
 ## 🌟 Hobbies & Interests - Beyond the Code
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100" />
 
 When I'm not coding, you can find me exploring the world beyond the screen. Here's a glimpse into what keeps me inspired:
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4b4408e3-2d75-4de9-a0ef-82f7673689ad" width="100" />
+<img src="https://media.giphy.com/media/l0Iyl55kTeh71nTWw/giphy.gif" width="100" />
 <br>
 <b>📚 Reading</b>
 <br>
 <sub>Fiction, Tech Blogs, Self-Improvement</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/82b4d4c2-43e1-47e8-b5ad-cb4eb9ef23ed" width="100" />
+<img src="https://media.giphy.com/media/3o6Zta4k1fOg9twWSA/giphy.gif" width="100" />
 <br>
 <b>🎵 Music</b>
 <br>
 <sub>Sufi, Classical, Shafaullah Rokhri</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0a2a1d39-8ab1-4bb4-a02d-7d07062c7a19" width="100" />
+<img src="https://media.giphy.com/media/26uf2YTg7C3L2/giphy.gif" width="100" />
 <br>
 <b>🏞️ Traveling</b>
 <br>
 <sub>Exploring Pakistan’s Landscapes</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7a1c2e09-0713-4f20-9c61-5854c47e8f95" width="100" />
+<img src="https://media.giphy.com/media/xT9IgzoW1tukf4lR6M/giphy.gif" width="100" />
 <br>
 <b>⚽ Sports</b>
 <br>
-<sub>Cricket, Football Enthusiast</sub>
+<sub>Cricket, Football</sub>
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
