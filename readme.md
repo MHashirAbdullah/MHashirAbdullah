@@ -58,7 +58,7 @@ class MuhammadHashirAbdullah:
             "learning": ["Advanced React Patterns", "Microservices"],
             "reading": "You Don't Know JS Yet",
             "listening_to": "Shafaullah Rokhri 🎵",
-            "working_on": "DARA - Property Rental Platform",
+            "working_on": "CarePulse - A Appointment Platform",
             "looking_for": "Full-Time Software Engineering Roles"
         }
     
@@ -85,7 +85,7 @@ me.say_hi()
 🚀 **Project Builder** • 3+ Major Projects  
 📧 **Email** • hashirabdullah46@gmail.com  
 📱 **Phone** • +92-321-1197160  
-🌐 **Portfolio** • [Visit Here](https://portfolio-webpage-eight-ivory.vercel.app/)
+🌐 **Portfolio** • [Visit Here](https://portfolio-ten-phi-3kx7pkqd7d.vercel.app/)
 
 <br/>
 
@@ -202,10 +202,10 @@ me.say_hi()
 
 ```text
 Backend Development  ████████████████████░░░░░   85%
-Frontend Development ████████████████████░░░░░   82%
+Frontend Development ████████████████████░░░░░   60%
 Database Management  ███████████████████░░░░░░   78%
 API Design & REST    ████████████████████░░░░░   85%
-Version Control      ████████████████████████░   95%
+Version Control      ████████████████████████░   80%
 Problem Solving      ████████████████████░░░░░   88%
 ```
 
@@ -213,37 +213,45 @@ Problem Solving      ███████████████████�
 
 ---
 
-## 🚀 Featured Projects - Building The Future
+Here’s the updated section with the project **CarePulse** added and the **DARA** project status changed to "Completed":
+
+---
+
+### 🚀 Featured Projects - Building The Future
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </div>
 
 ### 🏠 DARA - Next-Gen Property Rental Platform
-<img src="https://img.shields.io/badge/Status-🚧%20In%20Progress-yellow?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Status-✅%20Completed-brightgreen?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Stack-Django%20%7C%20Next.js%20%7C%20PostgreSQL-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Timeline-Feb%202025%20--%20Present-green?style=for-the-badge" />
 
 **🎯 Mission:** Revolutionizing property rental experiences with cutting-edge technology
 
 **✨ Highlights:**
-- 🏡 **Smart Property Listings** - AI-powered recommendations based on user preferences
-- 🔐 **Fort Knox Security** - JWT authentication, OAuth2.0 integration, role-based access
-- 🔍 **Intelligent Search** - Advanced filtering with geolocation and price optimization
-- 💳 **Seamless Bookings** - Integrated payment gateway with escrow protection
-- 📱 **Responsive Design** - Mobile-first approach with progressive web app capabilities
-- 📊 **Analytics Dashboard** - Real-time insights for property owners and renters
-- 💬 **Live Chat System** - In-app messaging between tenants and landlords
-- ⭐ **Review System** - Verified tenant/owner reviews with rating algorithms
+
+* 🏡 **Smart Property Listings** - AI-powered recommendations based on user preferences
+* 🔐 **Fort Knox Security** - JWT authentication, OAuth2.0 integration, role-based access
+* 🔍 **Intelligent Search** - Advanced filtering with geolocation and price optimization
+* 💳 **Seamless Bookings** - Integrated payment gateway with escrow protection
+* 📱 **Responsive Design** - Mobile-first approach with progressive web app capabilities
+* 📊 **Analytics Dashboard** - Real-time insights for property owners and renters
+* 💬 **Live Chat System** - In-app messaging between tenants and landlords
+* ⭐ **Review System** - Verified tenant/owner reviews with rating algorithms
 
 **🛠️ Tech Deep Dive:**
-- **Backend:** Django REST Framework, PostgreSQL, Redis caching, Celery task queue
-- **Frontend:** Next.js 14, TypeScript, Tailwind CSS, shadcn/ui components
-- **APIs:** Google Maps, Stripe Payment, AWS S3 for media storage
+
+* **Backend:** Django REST Framework, PostgreSQL, Redis caching, Celery task queue
+* **Frontend:** Next.js 14, TypeScript, Tailwind CSS, shadcn/ui components
+* **APIs:** Google Maps, Stripe Payment, AWS S3 for media storage
 
 ---
 
 ### 💰 Finance Manager Pro - Smart Money Management
+
 <img src="https://img.shields.io/badge/Status-✅%20Completed-brightgreen?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Stack-Django%20%7C%20React%20%7C%20Chart.js-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Timeline-Nov%202024%20--%20Dec%202024-green?style=for-the-badge" />
@@ -251,23 +259,26 @@ Problem Solving      ███████████████████�
 **🎯 Mission:** Empowering users to take control of their financial future
 
 **✨ Highlights:**
-- 📊 **Interactive Dashboards** - Real-time visualization with Chart.js and D3.js
-- 💳 **Transaction Tracking** - Automated categorization and expense analytics
-- 📈 **Financial Analytics** - Predictive insights and spending patterns
-- 📋 **Budget Management** - Smart budgeting with alerts and recommendations
-- 🎯 **Goal Tracking** - Savings goals with progress monitoring
-- 📱 **Mobile Responsive** - Seamless experience across all devices
-- 🔔 **Smart Notifications** - Bill reminders and spending alerts
-- 📊 **Export Reports** - PDF and Excel export functionality
+
+* 📊 **Interactive Dashboards** - Real-time visualization with Chart.js and D3.js
+* 💳 **Transaction Tracking** - Automated categorization and expense analytics
+* 📈 **Financial Analytics** - Predictive insights and spending patterns
+* 📋 **Budget Management** - Smart budgeting with alerts and recommendations
+* 🎯 **Goal Tracking** - Savings goals with progress monitoring
+* 📱 **Mobile Responsive** - Seamless experience across all devices
+* 🔔 **Smart Notifications** - Bill reminders and spending alerts
+* 📊 **Export Reports** - PDF and Excel export functionality
 
 **🏆 Achievements:**
-- ⚡ 40% improvement in user financial awareness
-- 🎨 Clean, intuitive UI with 95% user satisfaction
-- 📈 Successfully tracking $100K+ in transactions
+
+* ⚡ 40% improvement in user financial awareness
+* 🎨 Clean, intuitive UI with 95% user satisfaction
+* 📈 Successfully tracking $100K+ in transactions
 
 ---
 
 ### 🏢 Office Management Suite - Enterprise Productivity
+
 <img src="https://img.shields.io/badge/Status-✅%20Completed-brightgreen?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Stack-Django%20REST%20Framework-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Timeline-Aug%202024%20--%20Sep%202024-green?style=for-the-badge" />
@@ -275,26 +286,59 @@ Problem Solving      ███████████████████�
 **🎯 Mission:** Streamlining office operations for maximum productivity
 
 **✨ Highlights:**
-- 📋 **Task Management** - Kanban boards with drag-and-drop functionality
-- 🔄 **Workflow Automation** - Custom automation rules and triggers
-- 📊 **Resource Allocation** - Intelligent resource distribution and tracking
-- 👥 **Team Collaboration** - Real-time collaboration with comments and mentions
-- 📈 **Performance Tracking** - KPI dashboards and productivity metrics
-- 📅 **Calendar Integration** - Sync with Google Calendar and Outlook
-- 📧 **Email Notifications** - Automated updates and reminders
-- 🔐 **Role-Based Access** - Granular permissions and security
+
+* 📋 **Task Management** - Kanban boards with drag-and-drop functionality
+* 🔄 **Workflow Automation** - Custom automation rules and triggers
+* 📊 **Resource Allocation** - Intelligent resource distribution and tracking
+* 👥 **Team Collaboration** - Real-time collaboration with comments and mentions
+* 📈 **Performance Tracking** - KPI dashboards and productivity metrics
+* 📅 **Calendar Integration** - Sync with Google Calendar and Outlook
+* 📧 **Email Notifications** - Automated updates and reminders
+* 🔐 **Role-Based Access** - Granular permissions and security
 
 **🏆 Achievements:**
-- ⚡ 30% increase in team productivity
-- 🎯 Successfully managing 500+ tasks monthly
-- 👥 Supporting teams of 50+ members
+
+* ⚡ 30% increase in team productivity
+* 🎯 Successfully managing 500+ tasks monthly
+* 👥 Supporting teams of 50+ members
+
+---
+
+### 🩺 CarePulse - Doctor Appointment System
+
+<img src="https://img.shields.io/badge/Status-🚧%20In%20Progress-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stack-MERN%20Stack-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Timeline-Oct%202025%20--%20Present-green?style=for-the-badge" />
+
+**🎯 Mission:** Simplifying the healthcare experience with online appointments and payment solutions.
+
+**✨ Highlights:**
+
+* 🗓️ **Appointment Scheduling** - Real-time doctor availability and booking system
+* 💳 **Payment Integration** - Support for both online payments (via Stripe) and cash payments
+* 📱 **Responsive UI** - Optimized for mobile and desktop with a seamless UX
+* 🩺 **Doctor Profiles** - Detailed information, availability, and reviews
+* 🕒 **Appointment Reminders** - Automated reminders and push notifications
+* 🧑‍⚕️ **User Roles** - Separate interfaces for patients, doctors, and admin
+* 🔒 **Secure Authentication** - JWT-based login with OAuth2.0 integration
+* 🔍 **Search Functionality** - Find doctors based on specialties, location, and availability
+
+**🛠️ Tech Deep Dive:**
+
+* **Backend:** Node.js, Express.js, MongoDB
+* **Frontend:** React.js, Redux, Tailwind CSS
+* **Payment APIs:** Stripe for online payments, custom cash payment system
+* **Additional Features:** Push notifications with Firebase, calendar integration with Google API
 
 ---
 
 ### 🌟 Upcoming Innovation - MERN Stack Marvel
+
 <img src="https://img.shields.io/badge/Status-💡%20Ideation-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Stack-MongoDB%20%7C%20Express%20%7C%20React%20%7C%20Node-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Launch-Coming%20Soon-orange?style=for-the-badge" />
+
+
 
 **🎯 Mission:** Creating something revolutionary that will change the game
 
@@ -380,7 +424,7 @@ Problem Solving      ███████████████████�
 - 🤝 Participated in daily standups and sprint planning sessions
 - 📈 Increased website performance scores to 90+ on Lighthouse
 
-**Technologies:** HTML, CSS, JavaScript, Bootstrap, jQuery, Git
+**Technologies:** HTML, CSS, JavaScript, Bootstrap, Git
 
 </td>
 </tr>
@@ -389,11 +433,6 @@ Problem Solving      ███████████████████�
 ---
 
 ## 🏆 Certifications & Achievements
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
-</div>
-
 ### 📜 Professional Certifications
 
 <table>
@@ -484,7 +523,7 @@ Problem Solving      ███████████████████�
 <sub>3+ Major Projects Delivered</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c873a8e-ce5c-4cef-a44f-8fe1854aa9b7" width="100" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="100%" />
 <br>
 <b>🌟 Continuous Learning</b>
 <br>
@@ -508,12 +547,7 @@ Problem Solving      ███████████████████�
 
 <table width="100%">
 <tr>
-<td width="50%">
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=MHashirAbdullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Muhammad%20Hashir's%20GitHub%20Stats" width="100%" />
-
-</td>
 <td width="50%">
 
 ### 🏆 GitHub Trophies
@@ -537,9 +571,6 @@ Problem Solving      ███████████████████�
 </tr>
 </table>
 
-### 📊 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MHashirAbdullah&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
