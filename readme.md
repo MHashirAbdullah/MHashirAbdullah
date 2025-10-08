@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=MHashirAbdullah&label=Profile%20Visitors&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   </a>
   <img src="https://img.shields.io/github/followers/MHashirAbdullah?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-brightgreen?style=for-the-badge" alt="Current Focus" />
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-brightgreen?style=for-the-badge" alt="Currently Learning" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge" alt="Hiring Status" />
 </p>
 </div>
