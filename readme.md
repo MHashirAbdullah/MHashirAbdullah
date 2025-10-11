@@ -216,6 +216,26 @@ Problem Solving      ███████████████████�
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </div>
+### 🩺 CarePulse - Doctor Appointment System
+
+<img src="https://img.shields.io/badge/Status-🚧%20In%20Progress-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stack-MERN%20Stack-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Timeline-Jun%202025%20--%20Present-green?style=for-the-badge" />
+
+**🎯 Mission:** Simplifying the healthcare experience with online appointments and payment solutions.
+
+**✨ Highlights:**
+
+* 🗓️ **Appointment Scheduling** - Real-time doctor availability and booking system
+* 💳 **Payment Integration** - Support for both online payments (via Stripe) and cash payments
+* 📱 **Responsive UI** - Optimized for mobile and desktop with a seamless UX
+* 🩺 **Doctor Profiles** - Detailed information, availability, and reviews
+* 🕒 **Appointment Reminders** - Automated reminders and push notifications
+* 🧑‍⚕️ **User Roles** - Separate interfaces for patients, doctors, and admin
+* 🔒 **Secure Authentication** - JWT-based login with OAuth2.0 integration
+* 🔍 **Search Functionality** - Find doctors based on specialties, location, and availability
+
+---
 
 ### 🏠 DARA - Next-Gen Property Rental Platform
 
@@ -282,40 +302,20 @@ Problem Solving      ███████████████████�
 **✨ Highlights:**
 
 * 📋 **Task Management** - Kanban boards with drag-and-drop functionality
-* 🔄 **Workflow Automation** - Custom automation rules and triggers
 * 📊 **Resource Allocation** - Intelligent resource distribution and tracking
 * 👥 **Team Collaboration** - Real-time collaboration with comments and mentions
 * 📈 **Performance Tracking** - KPI dashboards and productivity metrics
 * 📅 **Calendar Integration** - Sync with Google Calendar and Outlook
-* 📧 **Email Notifications** - Automated updates and reminders
 * 🔐 **Role-Based Access** - Granular permissions and security
 
 **🏆 Achievements:**
 
 * ⚡ 30% increase in team productivity
-* 🎯 Successfully managing 500+ tasks monthly
-* 👥 Supporting teams of 50+ members
+* 🎯 Successfully managing 100+ tasks monthly
+* 👥 Supporting teams of 10+ members
 
 ---
 
-### 🩺 CarePulse - Doctor Appointment System
-
-<img src="https://img.shields.io/badge/Status-🚧%20In%20Progress-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Stack-MERN%20Stack-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Timeline-Jun%202025%20--%20Present-green?style=for-the-badge" />
-
-**🎯 Mission:** Simplifying the healthcare experience with online appointments and payment solutions.
-
-**✨ Highlights:**
-
-* 🗓️ **Appointment Scheduling** - Real-time doctor availability and booking system
-* 💳 **Payment Integration** - Support for both online payments (via Stripe) and cash payments
-* 📱 **Responsive UI** - Optimized for mobile and desktop with a seamless UX
-* 🩺 **Doctor Profiles** - Detailed information, availability, and reviews
-* 🕒 **Appointment Reminders** - Automated reminders and push notifications
-* 🧑‍⚕️ **User Roles** - Separate interfaces for patients, doctors, and admin
-* 🔒 **Secure Authentication** - JWT-based login with OAuth2.0 integration
-* 🔍 **Search Functionality** - Find doctors based on specialties, location, and availability
 
 **🛠️ Tech Deep Dive:**
 
