@@ -1,13 +1,17 @@
 # 🌌 Welcome to My Digital Universe 🌌
+<div align="center">
 
-<div align="center margin">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hello%2C+I'm+Muhammad+Hashir+Abdullah!+%F0%9F%91%8B;Full-Stack+Sorcerer+%E2%9C%A8+%7C+Code+Architect+%F0%9F%8F%97%EF%B8%8F;Django+%F0%9F%90%8D+%E2%80%A2+Next.js+%E2%9A%A1+%E2%80%A2+MERN+%F0%9F%9A%80;Turning+Coffee+into+Code+Since+2022+%E2%98%95%F0%9F%92%BB" alt="Typing SVG" 
-style="margin-bottom: 30px;" 
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=Hello%2C+I'm+Muhammad+Hashir+Abdullah!+%F0%9F%91%8B;Full-Stack+Sorcerer+%E2%9C%A8+%7C+Code+Architect+%F0%9F%8F%97%EF%B8%8F;Django+%F0%9F%90%8D+•+Next.js+%E2%9A%A1+•+MERN+%F0%9F%9A%80;Turning+Coffee+into+Code+Since+2022+%E2%98%95%F0%9F%92%BB" 
+    alt="Typing SVG"
+    style="margin-bottom: 30px;"
   />
-  
   <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25,26&height=200&section=header&text=Muhammad%20Hashir%20Abdullah&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=55" />
+<img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25,26&height=200&section=header&text=Muhammad%20Hashir%20Abdullah&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=55" 
+    alt="Header"
+  />
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=MHashirAbdullah">
