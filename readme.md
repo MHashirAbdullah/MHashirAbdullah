@@ -2,7 +2,7 @@
 <div align="center">
 
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=220&lines=Hello%2C+I'm+Muhammad+Hashir+Abdullah!+%F0%9F%91%8B;Full-Stack+Sorcerer+%E2%9C%A8+%7C+Code+Architect+%F0%9F%8F%97%EF%B8%8F;Django+%F0%9F%90%8D+•+Next.js+%E2%9A%A1+•+MERN+%F0%9F%9A%80;Turning+Coffee+into+Code+Since+2022+%E2%98%95%F0%9F%92%BB" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=200&lines=Hello%2C+I'm+Muhammad+Hashir+Abdullah!+%F0%9F%91%8B;Full-Stack+Sorcerer+%E2%9C%A8+%7C+Code+Architect+%F0%9F%8F%97%EF%B8%8F;Django+%F0%9F%90%8D+•+Next.js+%E2%9A%A1+•+MERN+%F0%9F%9A%80;Turning+Coffee+into+Code+Since+2022+%E2%98%95%F0%9F%92%BB" 
     alt="Typing SVG"
   />
 
