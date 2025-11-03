@@ -227,12 +227,12 @@ Problem Solving      ███████████████████�
 
 <img src="https://img.shields.io/badge/Status-✅%20Completed-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Stack-Next.js%20|%20Firebase%20|%20Gemini%20|%20Vapi-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Timeline-Jun%202025%20--%20Nov%202025-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Timeline-Sep%202025%20--%20Nov%202025-green?style=for-the-badge" />
 
 
 **🎯 Mission:** Empowering students and job seekers to practice and improve their interview skills through realistic, AI-driven mock interviews with instant performance feedback.
 
-** ✨ Highlights:**
+** ✨Highlights:**
 
 - 🎤 **Real-time Voice Interaction** — AI interviewer powered by **Vapi** enables smooth, natural, and real-time voice-based interviews.  
 - 🧠 **Dynamic Question Generation** — **Gemini AI** crafts adaptive, context-aware interview questions across multiple domains.  
