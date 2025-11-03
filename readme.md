@@ -90,7 +90,7 @@ me.say_hi()
 ⚡ **Tech Specialist** • Django, Vite.js, React Developer  
 🚀 **Project Builder** • 3+ Major Projects  
 📧 **Email** • hashirabdullah46@gmail.com
-🌐 **Portfolio** • [Visit Here](https://portfolio-ten-phi-3kx7pkqd7d.vercel.app/)
+🌐 **Portfolio** • [Visit Here](hashirabdullah.vercel.app)
 
 <br/>
 
@@ -232,7 +232,7 @@ Problem Solving      ███████████████████�
 
 **🎯 Mission:** Empowering students and job seekers to practice and improve their interview skills through realistic, AI-driven mock interviews with instant performance feedback.
 
-** ✨Highlights:**
+**✨ Highlights:**
 
 - 🎤 **Real-time Voice Interaction** — AI interviewer powered by **Vapi** enables smooth, natural, and real-time voice-based interviews.  
 - 🧠 **Dynamic Question Generation** — **Gemini AI** crafts adaptive, context-aware interview questions across multiple domains.  
