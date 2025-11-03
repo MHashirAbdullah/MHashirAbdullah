@@ -407,7 +407,7 @@ Problem Solving      ███████████████████�
   - Software Engineering
   - Operating Systems
   - Computer Networks
-- 🎯 Final Year Project: DARA Property Rental Platform
+- 🎯 Final Year Project: Oracruit - Real-time AI Based Interviewer
 - 👥 Active member of Computer Science Society
 
 ---
