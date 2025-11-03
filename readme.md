@@ -51,11 +51,11 @@ class MuhammadHashirAbdullah:
         self.languages_spoken = ["English", "Urdu", "Punjabi", "Saraiki"]
         self.tech_stack = {
             "backend": ["Django", "Node.js", "Express.js"],
-            "frontend": ["Next.js", "React.js", "TypeScript"],
+            "frontend": ["Next.js", "Vite", "React.js", "TypeScript"],
             "databases": ["PostgreSQL", "MongoDB"],
             "tools": ["Git", "Docker", "REST APIs"]
         }
-        self.current_mission = "Building scalable solutions with MERN Stack"
+        self.current_mission = "Building scalable solutions with JavaScript and Python"
         self.philosophy = "Clean code > Quick code"
         self.coffee_consumed = "Infinite ☕"
     
@@ -64,7 +64,7 @@ class MuhammadHashirAbdullah:
             "learning": ["Advanced React Patterns", "Microservices"],
             "reading": "You Don't Know JS Yet",
             "listening_to": "Shafaullah Rokhri 🎵",
-            "working_on": "CarePulse - A Appointment Platform",
+            "working_on": "Fuzion - A Automation Platform",
             "looking_for": "Full-Time Software Engineering Roles"
         }
     
@@ -223,9 +223,33 @@ Problem Solving      ███████████████████�
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </div>
 
+### 🤖 Oracruit - Real-time AI Based Interviewer
+
+<img src="https://img.shields.io/badge/Status-✅%20Completed-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stack-Next.js%20|%20Firebase%20|%20Gemini%20|%20Vapi-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Timeline-Jun%202025%20--%20Nov%202025-green?style=for-the-badge" />
+
+
+**🎯 Mission:** Empowering students and job seekers to practice and improve their interview skills through realistic, AI-driven mock interviews with instant performance feedback.
+
+** ✨ Highlights:**
+
+- 🎤 **Real-time Voice Interaction** — AI interviewer powered by **Vapi** enables smooth, natural, and real-time voice-based interviews.  
+- 🧠 **Dynamic Question Generation** — **Gemini AI** crafts adaptive, context-aware interview questions across multiple domains.  
+- 📊 **AI Feedback & Insights** — Instantly receive comprehensive feedback on your performance after every interview.  
+- 🕒 **Interview History** — All completed interviews are stored in your dashboard for future review and re-practice.  
+- 🔁 **Re-interview Feature** — Revisit any past session to improve your answers and communication with the AI interviewer.  
+- 🔒 **Secure Authentication** — Simple, secure sign-in using **Firebase Authentication**.  
+- ☁️ **Serverless Backend** — Scalable backend powered by **Firebase Firestore** and **Cloud Functions**.  
+- 💻 **Modern Frontend** — Built with **Next.js**, offering a seamless, responsive, and fast user experience.
+
+
+---
+
+
 ### 🩺 CarePulse - Doctor Appointment System
 
-<img src="https://img.shields.io/badge/Status-🚧%20In%20Progress-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-✅%20Completed-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Stack-MERN%20Stack-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Timeline-Jun%202025%20--%20Present-green?style=for-the-badge" />
 
