@@ -2,7 +2,7 @@
 ### Full-Stack Developer • MERN & Django • Software Engineer  
 
 <div align="center">
-  <img src="https://cdn.pixabay.com/photo/2015/01/08/18/26/entrepreneur-593358_1280.jpg" width="100%" />
+  ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png)
 </div>
 
 <br/>
